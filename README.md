@@ -26,6 +26,8 @@ It stores:
 ## 🧬 Topics Covered (Expanding Over Time)
 
 * Text preprocessing & tokenization
+* Linguistic Features
+* Text Vectorization
 
 ---
 
